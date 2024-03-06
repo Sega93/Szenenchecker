@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#0E5CAD;
+    color: #333333;
+}
+fieldset {
+    border-width: 0;
+}
+
+div {
+    background-color: #FFFFFF;
+    min-height: fit-content;
+    width: fit-content;
+    margin: 10vh auto 5vh;
+    padding: 5px 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+
+#person-name {
+    display: block;
+    border: 1px solid black;
+    margin: 5px auto;
+}
+
+p {
+    display: inline;
+    font-weight: bold;
+    user-select: none;
+    margin: 10px;
+
+}
+
+p:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+#submit-button {
+    padding: 5px 10px;
+}
+
+img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+img:hover {
+    cursor: pointer;
+}
