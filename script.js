@@ -9,25 +9,27 @@ const szene1Ppl = ["nora", "thomas"]
 const szene2Ppl = ["nora", "thomas", "kiki", "maike"]
 const szene3Ppl = ["nora", "thomas", "kiki", "maike", "clemens"]
 const szene4Ppl = ["nora", "kiki"]
-const szene5Ppl = ["nora", "jakob"]
-const szene6Ppl = ["nora", "thomas", "kiki", "maike", "clemens"] 
-const szene7Ppl = ["nora"]
-const szene8Ppl = ["nora", "kiki", "clemens"]
-const szene9Ppl = ["nora", "thomas", "kiki", "maike", "clemens"]
+const szene5Ppl = ["nora"]
+const szene6Ppl = ["nora", "jakob"]
+const szene7Ppl = ["nora", "thomas", "kiki", "maike", "clemens"] 
+const szene8Ppl = ["nora"]
+const szene9Ppl = ["nora", "kiki", "clemens"]
 const szene10Ppl = ["nora", "thomas", "kiki", "maike", "clemens"]
-const szene11Ppl = ["nora", "thomas"]
-const szene12Ppl = ["nora", "kiki"]
-const szene13Ppl = ["nora", "thomas", "kiki", "maike", "clemens", "jakob"]
-const szene14Ppl = ["nora", "maike", "jakob"]
-const szene15Ppl = ["nora", "thomas", "kiki", "maike", "clemens", "jakob"]
+const szene11Ppl = ["nora", "thomas", "kiki", "maike", "clemens"]
+const szene12Ppl = ["nora", "thomas"]
+const szene13Ppl = ["nora", "kiki"]
+const szene14Ppl = ["nora", "thomas", "kiki", "maike", "clemens", "jakob"]
+const szene15Ppl = ["nora", "maike", "jakob"]
 const szene16Ppl = ["nora", "thomas", "kiki", "maike", "clemens", "jakob"]
-const szene17Ppl = ["nora", "thomas", "maike", "clemens"]
+const szene17Ppl = ["nora"]
+const szene18Ppl = ["nora", "thomas", "kiki", "maike", "clemens", "jakob"]
+const szene19Ppl = ["nora", "thomas", "maike", "clemens"]
 
 const alleSzenen = [szene1Ppl,
   szene2Ppl,szene3Ppl,szene4Ppl,szene5Ppl,
   szene6Ppl,szene7Ppl,szene8Ppl,szene9Ppl,
   szene10Ppl,szene11Ppl,szene12Ppl,szene13Ppl,
-  szene14Ppl,szene15Ppl,szene16Ppl,szene17Ppl];
+  szene14Ppl,szene15Ppl,szene16Ppl,szene17Ppl,szene18Ppl,szene19Ppl]
 let szenenCheck = alleSzenen[0]
 
 let anwesendeLeute = 1
